@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/darenrilie">
-    <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/vkontakte-darkblue?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/darenrilie">
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Twitter Badge"/>
