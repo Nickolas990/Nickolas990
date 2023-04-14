@@ -13,8 +13,8 @@
   <a href="https://t.me/darenrilie">
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?Nickolas990&style=flat-square&color=blue" alt=""/>
 </div>
+![](https://komarev.com/ghpvc/?Nickolas990&color=green)
 
 ### Hi there 👋
 
