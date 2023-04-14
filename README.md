@@ -14,9 +14,7 @@
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Twitter Badge"/>
   </a>
 </div>
-<div id ="counter" align = "center">
 <img src="https://komarev.com/ghpvc/?Nickolas990&style=flat-square&color=blue" alt=""/>
-  </div>
 
 ### Hi there 👋
 
