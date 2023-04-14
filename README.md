@@ -1,5 +1,4 @@
-
-<div id="header" align="center">
+<div id="header" style="text-align: center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
 </div>
 
@@ -14,11 +13,15 @@
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Twitter Badge"/>
   </a>
 </div>
+<p style="text-align: center;">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></p>
+
+<h1 style="text-align: center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
- ![](https://komarev.com/ghpvc/?username=your-github-username)
-
-### Hi there 👋
 
 <!--
 **Nickolas990/Nickolas990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
