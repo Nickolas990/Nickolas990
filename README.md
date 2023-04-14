@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Twitter Badge"/>
   </a>
 </div>
-![](https://komarev.com/ghpvc/?Nickolas990&color=green)
+ <img src="https://komarev.com/ghpvc/?Nickolas990&color=green" alt="Twitter Badge"/>
 
 ### Hi there 👋
 
